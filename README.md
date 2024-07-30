@@ -19,8 +19,8 @@ De momento voy bien compaginando los estudios con la programación. (de momento)
 
 Mi dia a dia básicamente es <strong>montar webs</strong>, ya sea con un CMS como WordPress con enfoque al SEO, el cuál ya tengo 2 paginas web:
 
-1. [60Hercios // Gaming y tecnología](https://www.60Hercios.com)
-2. [OberturaVisual // Fotografia](https://www.60Hercios.com)
+1. [60Hercios // Gaming y tecnología](https://60Hercios.com)
+2. [OberturaVisual // Fotografia](https://oberturavisual.com)
 
 O creando mis propias webs a código puro, como por ejemplo:
 
