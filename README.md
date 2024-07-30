@@ -1,6 +1,7 @@
 <h1 align=center > Buenas, Soy Aki </h1>
-
 <p align=center>Programador FrontEnd y futuro GameDev</p>
+
+
 
 <hr>
 
@@ -28,9 +29,25 @@ O creando mis propias webs a código puro, como por ejemplo:
 
 <hr>
 
-<h2 align=center style="border-bottom: none;"> Lenguajes dominados
+<h2 align=center style="border-bottom: none;"> Lenguajes y frameworks dominados
 </h2>
 
-![Static Badge](https://img.shields.io/badge/a)
+![Static Badge](https://img.shields.io/badge/HTML-orange?logo=HTML5)
+
+![Static Badge](https://img.shields.io/badge/CSS-blue?logo=CSS3)
+
+![Static Badge](https://img.shields.io/badge/JS-yellow?style=flat&logo=JSS)
+
+![Static Badge](https://img.shields.io/badge/Astro-purple?style=flat&logo=Astro)
+
+![Static Badge](https://img.shields.io/badge/React-darkblue?style=flat&logo=React)
+
+![Static Badge](https://img.shields.io/badge/Python-lightblue?style=flat&logo=PYTHON)
+
+![Static Badge](https://img.shields.io/badge/Arduino-00838b?style=flat&logo=arduino&logoColor=white)
+
+![Static Badge](https://img.shields.io/badge/PHP-%237377AD?style=flat&logo=PHP&logoColor=white)
+
+
 
 
