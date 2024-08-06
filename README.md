@@ -1,8 +1,9 @@
+<img src="./src/AkiDev Banner.webp"
+style="border: 3px solid black;
+        border-radius: 15px;"/>
+
 <h1 align=center > Buenas, Soy Aki </h1>
 <p align=center>Programador FrontEnd y futuro GameDev</p>
-
-
-
 <hr>
 
 Buenas.
@@ -47,7 +48,6 @@ O creando mis propias webs a código puro, como por ejemplo:
 ![Static Badge](https://img.shields.io/badge/Arduino-00838b?style=flat&logo=arduino&logoColor=white)
 
 ![Static Badge](https://img.shields.io/badge/PHP-%237377AD?style=flat&logo=PHP&logoColor=white)
-
 
 
 
