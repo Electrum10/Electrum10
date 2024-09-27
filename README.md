@@ -10,9 +10,9 @@ Buenas.
 
 Me llamo Jan, aunque me gusta mas que me digan Aki por internet.
 
-Soy un adolescente de unos 16 años que me gusta programar cada vez que toco un ordenador (aunque tampoco soy un maquina).
+Sólo soy un adolescente de 16 años que me gusta programar cada vez que toco un ordenador (aunque tampoco soy un maquina).
 
-De momento voy bien compaginando los estudios con la programación. (de momento)
+De momento voy compaginando los estudios con la programación. (te repito, de momento)
 
 <hr>
 
