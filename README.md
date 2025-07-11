@@ -2,45 +2,58 @@
 style="border: 3px solid black;
         border-radius: 15px;"/>
 
-<h1 align=center > Buenas, Soy Aki </h1>
-<p align=center>Programador FrontEnd y futuro GameDev</p>
-<hr>
+<h1 align=center>Aki</h1>
+<p align=center>Programador que intenta hacer cosas que funcionen</p>
 
-Buenas.
+---
 
-Me llamo Jan, aunque me gusta mas que me digan Aki por internet.
+Hola, soy Jan, pero por internet prefiero Aki. 
 
-Sólo soy un adolescente de 16 años que me gusta programar cada vez que toco un ordenador (aunque tampoco soy un maquina).
+Tengo 16 años y programo cuando debería estar estudiando (spoiler: siempre debería estar estudiando). No soy ningún genio de la programación, pero al menos mis webs no explotan... la mayoría del tiempo.
 
-De momento voy compaginando los estudios con la programación. (te repito, de momento)
+Por ahora combino los estudios con esto de escribir código. Veremos cuánto dura.
 
-<hr>
+---
 
-<h2 align=center style="border-bottom: none;"> Que hago como programador? </h2>
+## ¿Qué hago exactamente?
 
-Mi dia a dia básicamente es <strong>montar webs</strong>, ya sea con un CMS como WordPress con enfoque al SEO, el cuál ya tengo 2 paginas web:
+Principalmente **desarrollo web**, porque alguien tiene que hacer que Internet sea un lugar ligeramente menos horrible.
 
-1. [60Hercios // Gaming y tecnología](https://60Hercios.com)
-2. [OberturaVisual // Fotografia](https://oberturavisual.com)
+Trabajo con WordPress cuando quiero que las cosas funcionen rápido, y con código vanilla cuando tengo ganas de sufrir. También me meto con Python de vez en cuando, y Arduino cuando necesito que algo parpadee.
 
-O creando mis propias webs a código puro, como por ejemplo:
+Actualmente estoy aprendiendo desarrollo de juegos, porque aparentemente crear webs no es suficiente masoquismo para mí.
 
-1. [Portafolio Personal](https://electrum10.github.io)
-2. [App del Clima con IA](https://app-clima-vanillajs.netlify.app)
+---
 
-<hr>
+## Stack tecnológico
+*O "cosas que sé usar sin llorar demasiado"*
 
-<h2 align=center style="border-bottom: none;"> Lenguajes y frameworks dominados
-</h2>
+**Frontend:**
+- HTML/CSS/JavaScript (lo básico que todo el mundo debería saber)
+- React (para cuando quiero complicarme la vida)
+- Astro (rápido y sin drama, mi favorito)
 
-![Static Badge](https://img.shields.io/badge/HTML-orange?logo=HTML5)
-![Static Badge](https://img.shields.io/badge/CSS-blue?logo=CSS3)
-![Static Badge](https://img.shields.io/badge/JS-yellow?style=flat&logo=JSS)
-![Static Badge](https://img.shields.io/badge/Astro-purple?style=flat&logo=Astro)
-![Static Badge](https://img.shields.io/badge/React-darkblue?style=flat&logo=React)
-![Static Badge](https://img.shields.io/badge/Python-lightblue?style=flat&logo=PYTHON)
-![Static Badge](https://img.shields.io/badge/Arduino-00838b?style=flat&logo=arduino&logoColor=white)
-![Static Badge](https://img.shields.io/badge/PHP-%237377AD?style=flat&logo=PHP&logoColor=white)
+**Backend & Others:**
+- PHP (porque alguien tiene que mantener el Internet del 2005)
+- Python (para todo lo que no es web)
+- Arduino (para hacer que las luces parpadeen)
 
+**Herramientas:**
+- WordPress (para clientes que quieren todo para ayer)
+- Git (para no perder el trabajo cuando todo se rompe)
 
+---
 
+## Proyectos actuales
+
+Estoy trabajando en algunas cosas, pero prefiero enseñar código que funcione en lugar de prototipos que se caen a pedazos.
+
+Si quieres ver algo específico o tienes alguna idea loca, házmelo saber. Siempre estoy buscando excusas para procrastinar con los estudios.
+
+---
+
+## Contacto
+
+Si necesitas que alguien convierta tu idea en código funcional (o al menos que lo intente), aquí estoy.
+
+*"No prometo milagros, pero sí prometo que compilará"*
